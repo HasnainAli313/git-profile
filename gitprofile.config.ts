@@ -71,7 +71,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://1drv.ms/b/s!AugQfwG4z2QBlkbOkvyI7UklVaFS?e=dEZKWy', // Empty fileUrl will hide the `Download Resume` button.
+      'https://onedrive.live.com/view.aspx?resid=164CFB8017F10E8!2964&authkey=!AF_Wy78gu2YB4CE', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'HTML',
